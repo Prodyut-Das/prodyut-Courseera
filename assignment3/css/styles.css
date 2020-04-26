@@ -1,0 +1,41 @@
+body {
+  font-size: 16px;
+  background-color: yellow; 
+}
+
+#header-nav {
+  background-color: #008080;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 5px;
+}
+.navbar-brand h1 { 
+  color: white;
+  font-size: 25px;
+  font-weight: bold; 
+  text-align: left;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: #808000;
+}
+#nav-list a:hover {
+  background: #C0C0C0;
+}
+section h3
+{
+  color: #800080;
+}
+section {
+  background-color: #00FFFF;
+  padding: 5px 20px 5px 20px;
+}
+section p{
+  color: black;
+}
+a {
+  color: blue;
+}
